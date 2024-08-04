@@ -14,14 +14,6 @@ MyNotes is a web application for managing notes, written in JavaScript, HTML, an
 - **CSS**: Styling of the user interface.
 - **JavaScript**: Application logic, note management, and interactions with local storage.
 
-## Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/my-notes.git
-    ```
-2. Open the `index.html` file in your browser.
-
 ## Usage
 
 1. Open the application in your browser.
